@@ -1,7 +1,7 @@
 {
   "name": "jrconsumer",
   "description": "A frontend lib to consume JSON::Resource endpoints",
-  "main": "index.js",
+  "main": "dist/jrconsumer.js",
   "version": "0.0.1",
   "authors": [
     "Andres Berrios <andres.berrios.j@gmail.com>"
@@ -24,5 +24,10 @@
     "test",
     "tests",
     "webpack.config.js"
-  ]
+  ],
+  "homepage": "https://github.com/andresberrios/jrconsumer",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andresberrios/jrconsumer.git"
+  }
 }
