@@ -1,0 +1,28 @@
+{
+  "name": "jrconsumer",
+  "description": "A frontend lib to consume JSON::Resource endpoints",
+  "main": "index.js",
+  "version": "0.0.1",
+  "authors": [
+    "Andres Berrios <andres.berrios.j@gmail.com>"
+  ],
+  "keywords": [
+    "jsonapi",
+    "json-api",
+    "frontend",
+    "angularjs",
+    "rails"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "webpack.config.js"
+  ]
+}

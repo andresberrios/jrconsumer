@@ -1,0 +1,1 @@
+require('./jrconsumer/service.coffee');
